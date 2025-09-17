@@ -1,0 +1,45 @@
+
+---
+
+## Methods and Tools
+- **Programming Languages:** Python, Rust, C++, AssemblyScript  
+- **Environments:** Docker, OMNeT++, WASI, Unikernels  
+- **Evaluation Focus:** Latency, cold-start performance, resource efficiency, cost analysis  
+
+---
+
+## Objectives
+- Study the cost structure of serverless systems with WebAssembly  
+- Compare WebAssembly, Docker, and Unikernels for lightweight deployment  
+- Implement and test a **sensor–actuator scenario** using Wasm functions  
+- Develop models and diagrams that capture workflows in a serverless context  
+
+---
+
+## Expected Outcomes
+The project will deliver:
+- Benchmarks on performance and cost  
+- Comparative analysis of container and Wasm-based systems  
+- Diagrams of architecture and workflows  
+- A practical case study (sensor–actuator simulation)  
+
+---
+
+## Current Progress
+- [x] Repository initialized  
+- [ ] Literature review in progress  
+- [ ] Simulation setup (OMNeT++ and Docker)  
+- [ ] Wasm prototypes under development  
+- [ ] Evaluation and data collection  
+- [ ] Final thesis compilation  
+
+---
+
+## License
+This project is distributed under the **MIT License**. Attribution is appreciated.  
+
+---
+
+## Author
+**Ukamaka Akumili Anaedu**  
+Electronics Engineering, Hochschule Hamm-Lippstadt  
